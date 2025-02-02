@@ -83,6 +83,9 @@ class CollaborationFramework:
 
 
 ## 🌱 참여 안내 (How to Engage)
+**팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
+- 링크 (준비중)
+
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
 1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-GH 채널로 입장
 2. Magical Week 중 행사에 참가
