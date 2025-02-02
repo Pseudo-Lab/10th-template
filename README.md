@@ -38,10 +38,10 @@ gantt
 class CollaborationFramework:
     def __init__(self):
         self.tools = {
-            'communication': 'Discord + GatherTown',
+            'communication': 'Discord',
             'version_control': 'GitHub Projects',
             'ci/cd': 'GitHub Actions',
-            'docs': 'MkDocs + ReadTheDocs'
+            'docs': 'Github Wiki'
         }
     
     def workflow(self):
