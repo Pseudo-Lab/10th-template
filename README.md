@@ -1,6 +1,23 @@
 # 10th-template
 
-[![PseudoLab](https://img.shields.io/badge/PseudoLab-S10-3776AB)](https://pseudo-lab.com) [![Discord Community](https://img.shields.io/badge/Discord-BF40BF)](https://discord.gg/EPurkHVtp2)
+<h1 align="center"> 10th Template </h1>
+
+<div align="center">
+<a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
+<a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
+<a href="https://github.com/Pseudo-Lab/10th-template/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/10th-template" alt="Stars Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/10th-template/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/10th-template" alt="Forks Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/10th-template/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/10th-template" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/10th-template/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/10th-template" alt="Issues Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/10th-template?color=2b9348"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpseudo-lab%2F10th-template&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+<br>
+
+<!-- sheilds: https://shields.io/ -->
+<!-- hits badge: https://hits.seeyoufarm.com/ -->
+
+> Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
 
 ## 🌟 프로젝트 목표 (Project Vision)
 _"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
@@ -90,3 +107,21 @@ class CollaborationFramework:
 1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-GH 채널로 입장
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab 행사에서 만나기
+
+## Acknowledgement 🙏
+
+OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
+
+## About Pseudo Lab 👋🏼</h2>
+
+[Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
+
+<h2>Contributors 😃</h2>
+<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/10th-template" />
+</a>
+<br><br>
+
+<h2>License 🗞</h2>
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
