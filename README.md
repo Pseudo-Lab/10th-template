@@ -19,12 +19,20 @@
 
 > Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
 
+🚀 {{프로젝트명}} — 가짜연구소 템플릿 프로젝트
+“함께 만드는 우연한 혁명(Serendipity Revolution)”
+진실함과 신뢰를 바탕으로 AI/DS 혁신 커뮤니티와 기술 실험을 진행합니다.
+
 ## 🌟 프로젝트 목표 (Project Vision)
 _"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
 - Graph-based RAG 스터디 및 프로젝트
 - 개인 성장과 집단 지혜의 시너지 창출
 - 오픈소스 정신을 바탕으로 한 지식 공유 문화
 - 실패를 성공의 디딤돌로 만드는 실험적 접근
+- 논문 리뷰 프로젝트 — 최신 AI 논문 분석, 토론, 실험 재현
+- 책 기반 스터디 — 머신러닝/데이터사이언스 주요 서적 공동 학습 및 적용
+- 오픈소스 프로젝트 — AI·데이터 처리 관련 라이브러리 개발 및 개선
+- 컨퍼런스 논문 투고 — 최신 연구 수행 및 국제 학회 제출 준비
 
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
@@ -100,8 +108,12 @@ class CollaborationFramework:
 
 
 ## 🌱 참여 안내 (How to Engage)
-**팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
-- 링크 (준비중)
+- 빌더로 참여 — 프로젝트 기획·운영 주도
+- 러너로 참여 — 연구·개발·테스트 등 실행
+- 청강 참여 — 공개 세션 참여 가능
+
+❗️참여 링크: [가짜연구소 디스코드](https://discord.gg/EPurkHVtp2)
+❗️커뮤니케이션 채널: 디스코드 #{{채널명}}
 
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
 1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-GH 채널로 입장
@@ -110,6 +122,8 @@ class CollaborationFramework:
 
 ## Acknowledgement 🙏
 
+이 프로젝트는 가짜연구소 Open Academy로 진행됩니다.
+여러분의 참여와 기여가 ‘우연한 혁명(Serendipity Revolution)’을 가능하게 합니다. 모두에게 깊은 감사를 전합니다.
 OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
 ## About Pseudo Lab 👋🏼</h2>
@@ -125,3 +139,11 @@ OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thank
 <h2>License 🗞</h2>
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+🚩 추가 팁 (Usage Tips)
+- 각 항목 내 {{ }} 표시된 부분을 프로젝트에 맞게 꼭 수정하세요.
+- 불필요한 프로젝트 유형 예시는 제거하거나 교체해 명확하게 하세요.
+- 로드맵과 활동내역 부분에 Mermaid 다이어그램 등을 이용해 시각적으로 표현하는 것을 추천합니다.
+- 체크박스(✅)와 표를 적절히 활용하면 진행 상황 한눈에 파악이 쉽습니다.
+- ‘빌더’와 ‘러너’의 역할 분담과 상호 피드백 문화 강화에 README 내 문장으로 강조를 절대 잊지 마세요.
+- README가 단순 안내서 이상으로 공동체 철학과 가치를 담는 협업 선언문임을 인지하고, 누구나 읽고 이해하기 쉽도록 간결 명료하게 작성하세요.
