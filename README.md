@@ -1,4 +1,4 @@
-# 10th-template
+# 10th Template
 
 <h1 align="center"> 10th Template </h1>
 
@@ -18,7 +18,7 @@
 
 > Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
 
-🚀 {{프로젝트명}} — 가짜연구소 템플릿 프로젝트
+🚀 10th Template — 가짜연구소 템플릿 프로젝트
 “함께 만드는 우연한 혁명(Serendipity Revolution)”
 진실함과 신뢰를 바탕으로 AI/DS 혁신 커뮤니티와 기술 실험을 진행합니다.
 
@@ -112,7 +112,7 @@ class CollaborationFramework:
 - 청강 참여 — 공개 세션 참여 가능
 
 ❗️참여 링크: [가짜연구소 디스코드](https://discord.gg/EPurkHVtp2)
-❗️커뮤니케이션 채널: 디스코드 #{{채널명}}
+❗️커뮤니케이션 채널: 디스코드 #Room-GH
 
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
 1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-GH 채널로 입장
@@ -141,6 +141,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 🚩 추가 팁 (Usage Tips)
 - 각 항목 내 {{ }} 표시된 부분을 프로젝트에 맞게 꼭 수정하세요.
+- 또는 `config.yml`를 수정하고 `rander.py`를 실행하여 수정하세요.
 - 불필요한 프로젝트 유형 예시는 제거하거나 교체해 명확하게 하세요.
 - 로드맵과 활동내역 부분에 Mermaid 다이어그램 등을 이용해 시각적으로 표현하는 것을 추천합니다.
 - 체크박스(✅)와 표를 적절히 활용하면 진행 상황 한눈에 파악이 쉽습니다.
