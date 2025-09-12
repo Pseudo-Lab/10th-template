@@ -1,6 +1,6 @@
-# 10th Template
+# {{프로젝트명}}
 
-<h1 align="center"> 10th Template </h1>
+<h1 align="center"> {{프로젝트명}} </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
@@ -16,9 +16,9 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-> Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
+> Welcome to {{Name}} repository! We aim to {{Name}}, offering tools and frameworks for {{Name}}, {{Name}}, and {{Name}}. Join us in advancing the field of {{Name}} through open collaboration and innovation!
 
-🚀 10th Template — 가짜연구소 템플릿 프로젝트
+🚀 {{프로젝트명}} — 가짜연구소 템플릿 프로젝트
 “함께 만드는 우연한 혁명(Serendipity Revolution)”
 진실함과 신뢰를 바탕으로 AI/DS 혁신 커뮤니티와 기술 실험을 진행합니다.
 
@@ -112,10 +112,10 @@ class CollaborationFramework:
 - 청강 참여 — 공개 세션 참여 가능
 
 ❗️참여 링크: [가짜연구소 디스코드](https://discord.gg/EPurkHVtp2)
-❗️커뮤니케이션 채널: 디스코드 #Room-GH
+❗️커뮤니케이션 채널: 디스코드 #{{채널명}}
 
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
-1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-GH 채널로 입장
+1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #{{채널명}} 채널로 입장
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab 행사에서 만나기
 
